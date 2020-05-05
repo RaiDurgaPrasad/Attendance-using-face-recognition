@@ -7,3 +7,4 @@ Please refer project directory image file to understand the file structure
 
 I didnot add "facenet_keras.h5" file in the repository because the size the is large.
 facenet algorithm woks using CNN artchiteture.
+Face Recognition Code Source: https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
